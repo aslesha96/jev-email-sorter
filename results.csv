@@ -1,0 +1,101 @@
+id,subject,folder,useful,importance
+1,Credit card statement ready,Bills,0.86,2.3
+2,You have 3 new followers,Social,0.75,1.8
+3,Credit card statement ready,Bills,0.86,2.3
+4,Alex tagged you in a photo,Social,0.65,1.7
+5,Quarterly planning agenda,Work,0.87,2.2
+6,Make $5000 a week from home,Spam,0.05,0.0
+7,Server maintenance tonight,Work,0.85,2.0
+8,Invoice #9193 attached,Bills,0.92,2.3
+9,URGENT: verify your account,Spam,0.07,0.8
+10,Project deadline is Wednesday,Work,0.95,2.8
+11,Team meeting moved to 3pm,Work,0.88,2.8
+12,Alex tagged you in a photo,Social,0.63,1.7
+13,Your order has shipped,Shopping,0.9,2.1
+14,Items in your cart are waiting,Shopping,0.79,2.2
+15,Special offer for our team members,Work,0.77,1.5
+16,Lose 20 pounds in 5 days,Spam,0.04,0.0
+17,Invitation: Sam's housewarming,Social,0.78,1.5
+18,Payment received - thank you,Bills,0.82,1.9
+19,Quarterly planning agenda,Work,0.88,2.2
+20,URGENT: verify your account,Spam,0.07,0.9
+21,50% OFF everything this weekend!,Shopping,0.59,1.4
+22,Your electricity bill is due,Bills,0.93,2.5
+23,50% OFF everything this weekend!,Shopping,0.59,1.4
+24,Can you review my pull request?,Work,0.67,2.0
+25,Photos from the trip,Social,0.6,1.5
+26,Your electricity bill is due,Bills,0.93,2.6
+27,You have 3 new followers,Social,0.73,1.9
+28,Items in your cart are waiting,Shopping,0.79,2.2
+29,Re: quick question,Work,0.22,1.5
+30,Your package could not be delivered,Spam,0.16,1.0
+31,Rent reminder,Bills,0.87,2.3
+32,Flash deal: 24 hours only,Shopping,0.59,2.2
+33,Make $5000 a week from home,Spam,0.06,0.0
+34,Flash deal: 24 hours only,Shopping,0.57,2.2
+35,Feedback on the design mockups,Work,0.82,2.1
+36,Rent reminder,Bills,0.9,2.4
+37,Dinner this weekend?,Social,0.84,1.7
+38,Action items from today's call,Work,0.83,2.5
+39,Lose 20 pounds in 5 days,Spam,0.04,0.0
+40,Happy birthday from the team!,Work,0.42,1.7
+41,Action items from today's call,Work,0.83,2.5
+42,Server maintenance tonight,Work,0.86,2.0
+43,Your package could not be delivered,Spam,0.15,1.0
+44,Cheap watches - luxury brands,Spam,0.11,0.0
+45,Claim your unclaimed inheritance,Spam,0.05,0.1
+46,Your subscription will renew,Bills,0.84,2.1
+47,Interview scheduled for Friday,Work,0.91,2.4
+48,Action items from today's call,Work,0.83,2.5
+49,Insurance premium notice,Bills,0.85,2.5
+50,Your order has shipped,Shopping,0.9,2.1
+51,New arrivals just for you,Shopping,0.62,1.2
+52,New arrivals just for you,Shopping,0.61,1.2
+53,New connection request,Work,0.68,1.6
+54,Track your return,Shopping,0.89,2.1
+55,Your order has shipped,Shopping,0.89,2.1
+56,Payment received - thank you,Bills,0.83,1.9
+57,You won a free cruise!!!,Spam,0.06,0.0
+58,Your order was delivered,Shopping,0.7,2.0
+59,Team meeting moved to 4:30pm,Work,0.78,2.7
+60,Can you review my pull request?,Work,0.68,2.0
+61,New arrivals just for you,Shopping,0.62,1.2
+62,Project deadline is Thursday,Work,0.75,2.8
+63,Alex tagged you in a photo,Social,0.62,1.7
+64,Photos from the trip,Social,0.59,1.5
+65,50% OFF everything this weekend!,Shopping,0.61,1.4
+66,FYI,Work,0.26,0.7
+67,Feedback on the design mockups,Work,0.79,2.1
+68,Server maintenance tonight,Work,0.85,2.0
+69,You won a free cruise!!!,Spam,0.05,0.0
+70,Interview scheduled for Tuesday,Work,0.76,2.3
+71,Can you review my pull request?,Work,0.67,2.0
+72,Feedback on the design mockups,Work,0.81,2.1
+73,You have 3 new followers,Social,0.74,1.9
+74,Project deadline is Tuesday,Work,0.68,2.7
+75,Track your return,Shopping,0.9,2.1
+76,Your subscription will renew,Bills,0.81,1.9
+77,Invoice #9263 attached,Bills,0.91,2.3
+78,Happy birthday from the team!,Work,0.4,1.7
+79,Rent reminder,Bills,0.9,2.4
+80,Your order was delivered,Shopping,0.7,2.0
+81,Quarterly planning agenda,Work,0.87,2.2
+82,Team meeting moved to 10am,Work,0.81,2.7
+83,Dinner this weekend?,Social,0.84,1.7
+84,Claim your unclaimed inheritance,Spam,0.06,0.1
+85,Items in your cart are waiting,Shopping,0.79,2.2
+86,Invitation: Sam's housewarming,Social,0.82,1.6
+87,Cheap watches - luxury brands,Spam,0.11,0.0
+88,You won a free cruise!!!,Spam,0.05,0.0
+89,Your order was delivered,Shopping,0.71,2.0
+90,Meeting notes and receipt,Work,0.75,1.8
+91,New connection request,Work,0.64,1.6
+92,Credit card statement ready,Bills,0.87,2.2
+93,Flash deal: 24 hours only,Shopping,0.59,2.1
+94,Your electricity bill is due,Bills,0.92,2.6
+95,Your subscription will renew,Bills,0.84,2.1
+96,Interview scheduled for Monday,Work,0.82,2.4
+97,Invoice #2188 attached,Bills,0.92,2.3
+98,URGENT: verify your account,Spam,0.07,0.9
+99,Insurance premium notice,Bills,0.83,2.4
+100,Payment received - thank you,Bills,0.82,1.9
